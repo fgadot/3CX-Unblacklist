@@ -1,6 +1,7 @@
 #!/bin/bash
 # unblacklist
 # made by Jersey Shore Technologies <info@jstechnologies.net>
+# maintained by HERMES42 <info@hermes42.com>
 # V0.1b - 2019.03.05
 
 #####################
